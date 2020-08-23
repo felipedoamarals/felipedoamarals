@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://github.com/felipedoamarals/felipedoamarals/blob/master/img/python_2.gif" />
 
-## On a Walk developing life
+## On a walk developing life
 
 ### Um cara apaixonado por dados e tecnologia! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
