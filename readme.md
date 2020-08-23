@@ -19,7 +19,7 @@ Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso
 
 <p>
  <br>
-<img href="www.google.com.br" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919852.svg"> 
+<img href="https://www.google.com/" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919852.svg"> 
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg">
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998717.svg">
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/747/747668.svg">
