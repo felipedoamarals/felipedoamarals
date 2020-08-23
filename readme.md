@@ -52,4 +52,3 @@ Tenho conhecimento em Python, SQL, Oracle, PostgreSQL, ETL, GIT, BI. InglÃªs (TÃ
   </p>
 </p>
  
-<img width="800" height="5" src="img/Header_GitHub_Felipe.png">
