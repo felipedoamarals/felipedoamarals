@@ -1,6 +1,6 @@
 ## Bem Vindo!!
 
-<img alt="GIF" src="img/python_2.gif" />
+<img alt="GIF" src="python_2.gif" />
 
 ## On a Walk developing life
 
