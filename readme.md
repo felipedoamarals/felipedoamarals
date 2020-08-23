@@ -4,9 +4,7 @@
 
 ## On a Walk developing life
 
-<img align="left" width="30" height="30" src="https://image.flaticon.com/icons/svg/734/734876.svg">
-
-### Um cara apaixonado por dados e tecnologia! Procurando aprender e compartilhar conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
+### Um cara apaixonado por dados e tecnologia! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
 Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso aos dados, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
 <br>
