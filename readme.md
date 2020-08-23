@@ -19,13 +19,13 @@ Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso
 
 <p>
  <br>
-<a href="https://www.python.org/" target="Python"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919852.svg"></a> 
-<a href="https://www.docker.com/" target="Docker"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg"></a>
-<a href="https://pt.wikipedia.org/wiki/SQL" target="SQL"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998717.svg"></a>
-<a href="https://en.wikipedia.org/wiki/Data_analysis" target="Data Analysis"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/747/747668.svg"></a>
-<a href="https://pt.wikipedia.org/wiki/Extract,_transform,_load" target="ETL"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998552.svg"></a>
-<a href="https://www.tableau.com/pt-br" target="Tableau"><img width="30" height="30" src="https://img.apksum.com/28/com.Tableau.TableauApp/20.422.3629/icon.png"></a>
-<a href="https://hadoop.apache.org/" target="Hadoop"><img width="30" height="30" src="https://static.thenounproject.com/png/1982404-200.png"></a>
+<a href="https://www.python.org/" target="_blank"><img alt="Python" title="Python" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919852.svg"></a> 
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" title="Docker" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg"></a>
+<a href="https://pt.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" title="SQL" width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998717.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank"><img alt="Data Analysis" title="Data Analysis" width="30" height="30" src="https://image.flaticon.com/icons/svg/747/747668.svg"></a>
+<a href="https://pt.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"><img alt="ETL" title="ETL" width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998552.svg"></a>
+<a href="https://www.tableau.com/pt-br" target="_blank"><img alt="Tableau" title="Tableau" width="30" height="30" src="https://img.apksum.com/28/com.Tableau.TableauApp/20.422.3629/icon.png"></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img alt="Hadoop" title="Hadoop" width="30" height="30" src="https://static.thenounproject.com/png/1982404-200.png"></a>
 </p>
 
 <br>
@@ -47,8 +47,8 @@ Tenho conhecimento em Python, SQL, Oracle, PostgreSQL, ETL, GIT, BI. Inglês (T�
 <p align="center">
   <strong>Chega mais!!!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/felipedoamaral" alt="LinkedIn"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/179/179330.svg"></a>  
-  <a href="mailto:felipedoamarals@gmail.com" alt="Email"><img img width="30" height="30" src="https://image.flaticon.com/icons/svg/552/552486.svg"></a>  
+  <a href="https://www.linkedin.com/in/felipedoamaral" target="_blank"><img alt="linkedin" title="linkedin" width="30" height="30" src="https://image.flaticon.com/icons/svg/179/179330.svg"></a>  
+  <a href="mailto:felipedoamarals@gmail.com" target="_blank"><img alt="Email" title="Email" width="30" height="30" src="https://image.flaticon.com/icons/svg/552/552486.svg"></a>  
   </p>
 </p>
  
