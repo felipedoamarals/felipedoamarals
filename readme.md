@@ -48,7 +48,7 @@ Tenho conhecimento em Python, SQL, Oracle, PostgreSQL, ETL, GIT, BI. InglÃªs (TÃ
   <strong>Chega mais!!!</strong>
  <p align="center">
   <a href="https://www.linkedin.com/in/felipedoamaral" alt="LinkedIn"><img width="30" height="30" src="https://image.flaticon.com/icons/svg/179/179330.svg"></a>  
-  <a href="felipedoamarals@gmail.com" alt="Email"><img img width="30" height="30" src="https://image.flaticon.com/icons/svg/552/552486.svg"></a>  
+  <a href="mailto:felipedoamarals@gmail.com" alt="Email"><img img width="30" height="30" src="https://image.flaticon.com/icons/svg/552/552486.svg"></a>  
   </p>
 </p>
  
