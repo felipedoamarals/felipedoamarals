@@ -1,5 +1,3 @@
-<img align="right" src="img/header-bg-index.png">
-
 ## Bem Vindo!!
 
 <img alt="GIF" src="img/python_2.gif" />
