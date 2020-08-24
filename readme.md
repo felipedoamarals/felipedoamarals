@@ -20,7 +20,6 @@ Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso
 <p>
  <br>
 <a href="https://www.python.org/"><img alt="Python" title="Python" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919852.svg"></a> 
-<a href="https://www.docker.com/"><img alt="Docker" title="Docker" width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919853.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/SQL" ><img alt="SQL" title="SQL" width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998717.svg"></a>
 <a href="https://en.wikipedia.org/wiki/Data_analysis" ><img alt="Data Analysis" title="Data Analysis" width="30" height="30" src="https://image.flaticon.com/icons/svg/747/747668.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/Extract,_transform,_load"><img alt="ETL" title="ETL" width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998552.svg"></a>
