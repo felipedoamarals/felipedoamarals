@@ -24,7 +24,6 @@ Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso
 <a href="https://en.wikipedia.org/wiki/Data_analysis" ><img alt="Data Analysis" title="Data Analysis" width="30" height="30" src="https://image.flaticon.com/icons/svg/747/747668.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/Extract,_transform,_load"><img alt="ETL" title="ETL" width="30" height="30" src="https://image.flaticon.com/icons/svg/1998/1998552.svg"></a>
 <a href="https://www.tableau.com/pt-br"><img alt="Tableau" title="Tableau" width="30" height="30" src="https://img.apksum.com/28/com.Tableau.TableauApp/20.422.3629/icon.png"></a>
-<a href="https://hadoop.apache.org/"><img alt="Hadoop" title="Hadoop" width="30" height="30" src="https://static.thenounproject.com/png/1982404-200.png"></a>
 </p>
 
 <br>
