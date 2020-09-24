@@ -6,12 +6,12 @@
 
 ### Um cara apaixonado por dados e tecnologia! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
-Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso aos dados, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
+Atuamente trabalho com analista de sistema na área da saúde. Além de tá imerso aos dados, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
 <br>
 
-- :dart: Buscando desafios em Analise de Dados e Python! Só chamar galera! :muscle:
+- :dart: Buscando desafios de Engenharia de dados, Ciência de Dados e Python! Só chamar galera! :muscle:
 - :mortar_board: Bacharel em Sistemas de Informação.
-- :books: Estudando Python | Data Science | SQL
+- :books: Estudando Python | Data Science | Data engineer | SQL
 - :speech_balloon: Aberto a perguntas! Vou ficar muito feliz em colaborar!
 - :eyes: Aprendendo a usar o Github!
 
@@ -33,8 +33,8 @@ Atuamente trabalho com análise de dados na área da saúde. Além de tá imerso
  
 Procuro desenvolver competências socioemocionais aliadas ao negócio. Acredito na disseminação do valor humano para um mundo melhor.
 Tenho sólidas experiências em grandes projetos de tecnologia no segmento de logística hidroviária, autopeças e administração pública.<br>
-Possuo habilidades com Gestão de TI, competências para administrar e sustentar infraestrutura e sistema. Recentemente realizei a migração de área. Assumi um desafio como Analista de Sistemas focado em Análise de Dados. Sou apaixonado por tecnologia em dados.<br>
-Tenho conhecimento em Python, SQL, Oracle, PostgreSQL, ETL, GIT, BI. Inglês (Técnico)
+Possuo habilidades com Gestão de TI, competências para administrar e sustentar infraestrutura e sistema. Recentemente realizei a migração de área. Assumi um desafio como Analista de Sistemas focado em Engenharia de Dados. Sou apaixonado por tecnologia em dados.<br>
+Tenho conhecimento em Python, SQL, Oracle, PostgreSQL, ETL, Pentaho, GIT, BI. Inglês (Técnico)
  
 [![felipedoamarals github stats](https://github-readme-stats.vercel.app/api?username=felipedoamarals)](https://github.com/felipedoamarals/github-readme-stats)
 <br><br>
