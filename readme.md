@@ -4,14 +4,14 @@
 
 ## On a walk developing life
 
-### Um cara apaixonado por dados e tecnologia! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
+### Um cara apaixonado por dados, programação e tudo que a tecnologia oferece! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
-Atuamente trabalho com analista de sistema na área da saúde. Além de tá imerso aos dados, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
+Atuamente trabalho com analista de sistema na área da saúde. Além de tá imerso aos dados e programação, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
 <br>
 
-- :dart: Buscando desafios de Engenharia de dados, Ciência de Dados e Python! Só chamar galera! :muscle:
+- :dart: Buscando desafios de Engenharia de dados e Python! Só chamar galera! :muscle:
 - :mortar_board: Bacharel em Sistemas de Informação.
-- :books: Estudando Python | Data Science | Data engineer | SQL
+- :books: Estudando Python | Cloud | Data engineer | SQL
 - :speech_balloon: Aberto a perguntas! Vou ficar muito feliz em colaborar!
 - :eyes: Aprendendo a usar o Github!
 
