@@ -6,7 +6,7 @@
 
 ### Um cara apaixonado por dados, programação e tudo que a tecnologia oferece! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
-Atuamente trabalho com analista de dados. Além de tá imerso aos dados e programação, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
+Atuamente trabalho como analista de dados. Além de tá imerso aos dados e programação, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
 <br>
 
 - :dart: Buscando desafios de Engenharia de dados e Python! Só chamar galera! :muscle:
