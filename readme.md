@@ -6,12 +6,12 @@
 
 ### Um cara apaixonado por dados, programação e tudo que a tecnologia oferece! Procurando aprender compartilhando conhecimento e sempre acreditando na disseminação do valor humano para um mundo melhor.
 
-Atuamente trabalho como analista de dados. Além de tá imerso aos dados e programação, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
+Atuamente trabalho como Engenheiro de Dados. Além de tá imerso aos dados e programação, gosto de jogar, conversar sobre a vida e participar das comunidades de tecnologia.
 <br>
 
-- :dart: Buscando desafios de Engenharia de dados e Python! Só chamar galera! :muscle:
+- :dart: Buscando desafios de Engenharia de dados, Big Data e Python! Só chamar galera! :muscle:
 - :mortar_board: Bacharel em Sistemas de Informação.
-- :books: Estudando Python | Cloud | Data engineer | SQL
+- :books: Estudando Python | Cloud | Data engineer | SQL | Spark | Kakfa | Big data
 - :speech_balloon: Aberto a perguntas! Vou ficar muito feliz em colaborar!
 - :eyes: Aprendendo a usar o Github!
 
@@ -32,7 +32,7 @@ Atuamente trabalho como analista de dados. Além de tá imerso aos dados e progr
  <summary><b>More about me</b></summary>
  
 Procuro desenvolver competências socioemocionais aliadas ao negócio. Acredito na disseminação do valor humano para um mundo melhor.
-Sou apaixonado por tecnologia em dados. Tenho conhecimento em SQL, implementação e automatização de ETL com Pentaho PDI e Apache Airflow; Ecossistema Hadoop, Python, GIT, Docker, Cloud(AWS e Azure), BI. Inglês (Técnico).
+Sou apaixonado por tecnologia em dados. Tenho conhecimento em SQL, implementação e automatização de ETL com Pentaho PDI e Apache Airflow; Ecossistema Hadoop, Spark, Kafka, Nifi, Python, GIT, Docker, Cloud(AWS e Azure), BI. Inglês (Técnico).
  
 [![felipedoamarals github stats](https://github-readme-stats.vercel.app/api?username=felipedoamarals)](https://github.com/felipedoamarals/github-readme-stats)
 <br><br>
