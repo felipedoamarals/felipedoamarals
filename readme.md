@@ -13,7 +13,6 @@ Atuamente trabalho como Engenheiro de Dados. Além de tá imerso aos dados e pro
 - :mortar_board: Bacharel em Sistemas de Informação.
 - :books: Estudando Python | Cloud | Data engineer | SQL | Spark | Kafka | Big data
 - :speech_balloon: Aberto a perguntas! Vou ficar muito feliz em colaborar!
-- :eyes: Aprendendo a usar o Github!
 
 ### Languages and Tools
 
@@ -28,11 +27,10 @@ Atuamente trabalho como Engenheiro de Dados. Além de tá imerso aos dados e pro
 <details> 
  <summary><b>More about me</b></summary>
  
-Procuro desenvolver competências socioemocionais aliadas ao negócio. Acredito na disseminação do valor humano para um mundo melhor.
-Sou apaixonado por tecnologia em dados. Tenho conhecimento em SQL, implementação e automatização de ETL com Pentaho PDI e Apache Airflow; Ecossistema Hadoop, Spark, Kafka, Nifi, Python, GIT, Docker, Cloud(AWS e Azure), BI. Inglês (Técnico).
- 
+Só um amador da programação.
+		 
 [![felipedoamarals github stats](https://github-readme-stats.vercel.app/api?username=felipedoamarals)](https://github.com/felipedoamarals/github-readme-stats)
-<br><br>
+<br><br>		
 ![Profile views](https://gpvc.arturio.dev/felipedoamarals)
 
 </details>
@@ -40,7 +38,7 @@ Sou apaixonado por tecnologia em dados. Tenho conhecimento em SQL, implementaç�
 <p align="center">
   <strong>Chega mais!!!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/felipedoamaral"><img alt="linkedin" title="linkedin" width="30" height="30" src="https://image.flaticon.com/icons/svg/179/179330.svg"></a>  
+  <a href="https://www.linkedin.com/in/felipeamarals"><img alt="linkedin" title="linkedin" width="30" height="30" src="https://image.flaticon.com/icons/svg/179/179330.svg"></a>  
   <a href="mailto:felipedoamarals@gmail.com"><img alt="Email" title="Email" width="30" height="30" src="https://image.flaticon.com/icons/svg/552/552486.svg"></a>  
   </p>
 </p>
